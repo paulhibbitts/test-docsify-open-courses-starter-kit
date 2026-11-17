@@ -1,7 +1,7 @@
 # Changelog
 
 ## [v1.0.1](https://github.com/hibbitts-design/docsify-open-courses-starter-kit/releases/tag/v1.0.1)
-### XX/XX/2026
+### 11/17/2026
 
 **Improved:**
 * Updated ReadMe
