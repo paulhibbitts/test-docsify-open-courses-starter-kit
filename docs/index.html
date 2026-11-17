@@ -191,6 +191,8 @@
         depth: 6,
         namespace: 'docsify-open-courses-starter-kit' + Date.now(),
         hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+        pathNamespaces: /^\/[^\/]+(?=\/)/, // a separate search index for each top-level folder (each course or guide)
+        insertBefore: '.sidebar-nav', // the search box goes below the site name
       },
  
       pagination: {
@@ -422,7 +424,7 @@
   </script>
 
   <!-- Search Box Plugin -->
-  <!-- <script src="assets/js/search.min.js"></script> -->
+  <script src="assets/js/search.min.js"></script>
 
   <!-- Font Awesome Plugin -->
   <script src="assets/js/docsify-fontawesome.min.js"></script>
