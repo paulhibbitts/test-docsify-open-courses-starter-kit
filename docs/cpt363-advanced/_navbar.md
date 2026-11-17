@@ -1,0 +1,7 @@
+- [CPT363-3](cpt363-advanced/home.md ":class=site-title")
+- [Home](cpt363-advanced/home.md)
+- [Schedule](cpt363-advanced/schedule.md)
+- [Topics](cpt363-advanced/topics.md)
+- [Resources](cpt363-advanced/resources.md)
+- [Syllabus](cpt363-advanced/syllabus.md)
+- [Contact](cpt363-advanced/contact.md)

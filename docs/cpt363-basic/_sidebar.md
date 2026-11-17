@@ -1,0 +1,23 @@
+**CPT363-1**
+
+- [Home](cpt363-basic/home.md)
+- [Welcome](cpt363-basic/welcome.md)
+- [Module 1](cpt363-basic/module-01.md)
+- [Module 2](cpt363-basic/module-02.md)
+- [Module 3](cpt363-basic/module-03.md)
+- [Module 4](cpt363-basic/module-04.md)
+- [Module 5](cpt363-basic/module-05.md)
+- [Module 6](cpt363-basic/module-06.md)
+- [Module 7](cpt363-basic/module-07.md)
+- [Module 8](cpt363-basic/module-08.md)
+- [Module 9](cpt363-basic/module-09.md)
+- [Module 10](cpt363-basic/module-10.md)
+- [Module 11](cpt363-basic/module-11.md)
+- [Module 12](cpt363-basic/module-12.md)
+- [Module 13](cpt363-basic/module-13.md)
+- **Canvas LMS**
+  - [Calendar](https://canvas.sfu.ca/calendar)
+  - [Assignments](https://canvas.sfu.ca/courses/55288/assignments)
+  - [Quizzes](https://canvas.sfu.ca/courses/55288/quizzes)
+  - [Class Discussions](https://canvas.sfu.ca/courses/55288/discussion_topics)
+  - [Syllabus](https://canvas.sfu.ca/courses/55288/syllabus)
