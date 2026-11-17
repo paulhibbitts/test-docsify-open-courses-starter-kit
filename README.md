@@ -20,11 +20,17 @@ _Figure 1. Docsify Open Courses Starter Kit. Explore a demo at [hibbitts-design.
 - `docs/home.md` – the Courses page, with a card for each course (`card-list-courses`, three cards in a row on wide screens)
 - `docs/cpt363-basic/`, `docs/cpt363-intermediate/`, `docs/cpt363-advanced/` – one folder per course: `home.md` (its home page), its modules or weekly units, its other pages (such as `schedule.md`, `resources.md`, `syllabus.md` and `contact.md`), `images/`, `_sidebar.md` (its modules and LMS links) and `_navbar.md` (the course name, Home and its other pages)
 
+To start your own site:
+
+1. Keep the example course closest to yours, such as `docs/cpt363-basic/` (organised by modules) or `docs/cpt363-advanced/` (organised by weekly units), and delete the other course folders
+2. Delete their cards from `docs/home.md`
+3. Edit its `home.md`, its modules and pages, its `_sidebar.md` and its `_navbar.md`
+
 To add a course:
 
 1. Copy a course folder, such as `docs/cpt363-basic/`, and give it a new name
 2. In all of its Markdown files, change `cpt363-basic/` in the links to the new folder name (links start from the `docs` folder)
-   - To change them all at once, press `.` on your repository's GitHub page to open the web editor, use **Search** to replace them (with the new folder in **files to include**), then commit from **Source Control**
+   - To change them all at once, open your repository in the GitHub.dev web-based editor (press `.` on its GitHub page), use **Search** to replace them (with the new folder in **files to include**), then commit from **Source Control**
 3. Edit its `home.md`, its modules and pages, its `_sidebar.md` and its `_navbar.md`
 4. Add a card for it to `docs/home.md`, linking to its `home.md`
 
