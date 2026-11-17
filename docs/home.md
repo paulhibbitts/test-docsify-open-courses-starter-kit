@@ -12,7 +12,7 @@ To make your own, start from the [Docsify Open Courses Starter Kit](https://gith
 
 [![CPT363-1](cpt363-basic/images/hugo-rocha-problem-statement-unsplash.jpg ":no-zoom")](cpt363-basic/home.md)
 
-<h2><a href="#/cpt363-basic/home">CPT363-1</a></h2>
+## [CPT363-1](cpt363-basic/home.md)
 
 This is a basic example course, organised by modules, using only a small number of page types and features.
 
@@ -22,7 +22,7 @@ This is a basic example course, organised by modules, using only a small number 
 
 [![CPT363-2](cpt363-intermediate/images/hugo-rocha-how-might-we-unsplash.jpg ":no-zoom")](cpt363-intermediate/home.md)
 
-<h2><a href="#/cpt363-intermediate/home">CPT363-2</a></h2>
+## [CPT363-2](cpt363-intermediate/home.md)
 
 This is an intermediate example course, organised by modules, using a moderate number of page types and features.
 
@@ -32,7 +32,7 @@ This is an intermediate example course, organised by modules, using a moderate n
 
 [![CPT363-3](cpt363-advanced/images/hugo-rocha-research-wall-unsplash.jpg ":no-zoom")](cpt363-advanced/home.md)
 
-<h2><a href="#/cpt363-advanced/home">CPT363-3</a></h2>
+## [CPT363-3](cpt363-advanced/home.md)
 
 This is an advanced example course, organised by weekly units, using a large number of page types and features.
 
