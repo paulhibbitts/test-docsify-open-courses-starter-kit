@@ -3,6 +3,9 @@
 ## [v1.0.2](https://github.com/hibbitts-design/docsify-open-courses-starter-kit/releases/tag/v1.0.2)
 ### XX/XX/2026
 
+**New:**
+* Card list in rows: `card-list-rows` shows one card per row, for cards without images, such as a guide's sections
+
 **Improved:**
 * Search stays within the current course or guide on sites with a folder per course or guide
 * Course card titles are Markdown links, which also work on GitHub
