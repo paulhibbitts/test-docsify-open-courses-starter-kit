@@ -5,6 +5,8 @@
 
 **Improved:**
 * Search stays within the current course or guide on sites with a folder per course or guide
+* Course card titles are Markdown links, which also work on GitHub
+* Course sidebars list the first five modules
 
 ## [v1.0.1](https://github.com/hibbitts-design/docsify-open-courses-starter-kit/releases/tag/v1.0.1)
 ### 11/17/2026
