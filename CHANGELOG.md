@@ -12,6 +12,7 @@
 * Search stays within the current course or guide on sites with a folder per course or guide
 * Course card titles are Markdown links, which also work on GitHub
 * Course sidebars list the first five modules
+* Updated ReadMe with the Open Publishing Course Space Bridge, at its new address
 * A guide cover has a faint edge and soft shadow, as in Open Publishing Space, so a light cover stands out from the page
 
 ## [v1.0.1](https://github.com/hibbitts-design/docsify-open-courses-starter-kit/releases/tag/v1.0.1)
