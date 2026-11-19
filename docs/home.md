@@ -10,7 +10,7 @@ To make your own, start from the [Docsify Open Courses Starter Kit](https://gith
 
 <div class="card">
 
-[![CPT363-1](cpt363-basic/images/hugo-rocha-problem-statement-unsplash.jpg ":no-zoom")](cpt363-basic/home.md)
+![](cpt363-basic/images/hugo-rocha-problem-statement-unsplash.jpg ":no-zoom")
 
 ## [CPT363-1](cpt363-basic/home.md)
 
@@ -20,7 +20,7 @@ This is a basic example course, organised by modules, using only a small number 
 
 <div class="card">
 
-[![CPT363-2](cpt363-intermediate/images/hugo-rocha-how-might-we-unsplash.jpg ":no-zoom")](cpt363-intermediate/home.md)
+![](cpt363-intermediate/images/hugo-rocha-how-might-we-unsplash.jpg ":no-zoom")
 
 ## [CPT363-2](cpt363-intermediate/home.md)
 
@@ -30,7 +30,7 @@ This is an intermediate example course, organised by modules, using a moderate n
 
 <div class="card">
 
-[![CPT363-3](cpt363-advanced/images/hugo-rocha-research-wall-unsplash.jpg ":no-zoom")](cpt363-advanced/home.md)
+![](cpt363-advanced/images/hugo-rocha-research-wall-unsplash.jpg ":no-zoom")
 
 ## [CPT363-3](cpt363-advanced/home.md)
 

@@ -14,6 +14,8 @@
 * Course sidebars list the first five modules
 * Updated ReadMe with the Open Publishing Course Space Bridge, at its new address
 * A guide cover has a faint edge and soft shadow, as in Open Publishing Space, so a light cover stands out from the page
+* A card whose title is a link can be clicked anywhere – on its image, title or text – yet is still one link for keyboard and screen reader users, so its image no longer needs to be a second link
+* Course card images on the Courses page are plain images, as the whole card is now clickable
 
 ## [v1.0.1](https://github.com/hibbitts-design/docsify-open-courses-starter-kit/releases/tag/v1.0.1)
 ### 11/17/2026
