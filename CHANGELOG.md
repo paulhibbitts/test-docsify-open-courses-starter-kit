@@ -8,6 +8,7 @@
 * Portrait guide cover: `guide-cover-portrait`, added to `guide-cover`, shows a book cover whole at its own shape
 
 **Improved:**
+* A long site title wraps onto a second line on phones instead of running off the page
 * Search stays within the current course or guide on sites with a folder per course or guide
 * Course card titles are Markdown links, which also work on GitHub
 * Course sidebars list the first five modules
