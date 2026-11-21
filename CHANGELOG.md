@@ -6,6 +6,7 @@
 **New:**
 * Card list in rows: `card-list-rows` shows one card per row, for cards without images, such as a guide's sections
 * Portrait guide cover: `guide-cover-portrait`, added to `guide-cover`, shows a book cover whole at its own shape
+* Keep My Place: a Continue reading bar on the home page (on each course's or guide's home page in sites with several), to the Sidebar page last read
 
 **Improved:**
 * A long site title wraps onto a second line on phones instead of running off the page
@@ -17,6 +18,8 @@
 * A card whose title is a link can be clicked anywhere – on its image, title or text – yet is still one link for keyboard and screen reader users, so its image no longer needs to be a second link
 * Course card images on the Courses page are plain images, as the whole card is now clickable
 * Updated ReadMe with a note to keep each course's "What's Happening This Week" current, as Docsify doesn't update it by date
+* Each page has its own Browser tab title, such as "Week 1 | CPT-363" or "Module 2 | CPT363-1"
+* The ← → keys go to the previous and next page
 
 ## [v1.0.1](https://github.com/hibbitts-design/docsify-open-courses-starter-kit/releases/tag/v1.0.1)
 ### 11/17/2026
