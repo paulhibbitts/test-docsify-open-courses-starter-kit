@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Docsify Discord Chat" />
 </a>
 
-Docsify sites use client-side rendering, which means your content will not be indexed by search engines like Google, Bing, or DuckDuckGo.
+Docsify sites draw their pages in the browser, with page addresses after a `#`, so search engines like Google, Bing, or DuckDuckGo index little more than the home page.
 
 > A starter kit for an open site with one course or many, built with [Docsify](https://docsify.js.org/) and published free on GitHub Pages: a Courses page with a card for each course, and each course with its own home page, modules or weekly units, sidebar and navbar. Its three example courses come from [Grav Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space), its Grav twin – the free [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org) moves courses between the two.
 
