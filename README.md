@@ -36,6 +36,8 @@ To add a course:
 
 Each course's images go in its own `images/` folder.
 
+**Keep "This Week" current:** each course's `home.md` has a "What's Happening This Week" section. Docsify doesn't change it by date, so update it each week.
+
 > [!NOTE]
 > This kit replaces the [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit). For a single course, the [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) is still the simplest start.
 
