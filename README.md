@@ -34,6 +34,11 @@ To add a course:
 3. Edit its `home.md`, its modules and pages, its `_sidebar.md` and its `_navbar.md`
 4. Add a card for it to `docs/home.md`, linking to its `home.md`
 
+For simple text cards, one per row, without a picture for each course:
+
+1. In `docs/home.md`, change `card-list-courses` to `card-list-rows`
+2. Remove the picture line at the top of each card
+
 Each course's images go in its own `images/` folder.
 
 **Keep "This Week" current:** each course's `home.md` has a "What's Happening This Week" section. Docsify doesn't change it by date, so update it each week.
